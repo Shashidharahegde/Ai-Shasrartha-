@@ -1,0 +1,149 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --paper: #fbf6ec;
+  --paper-2: #f4ead8;
+  --card: rgb(255 252 245 / 0.82);
+  --card-strong: rgb(255 253 248 / 0.96);
+  --ink: #2b2118;
+  --ink-soft: #5c4b3b;
+  --ink-faint: #8f7b66;
+  --line: rgb(120 90 55 / 0.18);
+  --gold: #a8742a;
+  --bronze: #8a531c;
+  --advaita: #b3361e;
+  --dvaita: #1f3b6e;
+  --moderator: #7a5a2b;
+  --veil: rgb(251 246 236 / 0.86);
+}
+
+.dark {
+  --paper: #17110b;
+  --paper-2: #221911;
+  --card: rgb(38 28 19 / 0.78);
+  --card-strong: rgb(42 31 21 / 0.96);
+  --ink: #f2e6d2;
+  --ink-soft: #cdb99c;
+  --ink-faint: #9a8569;
+  --line: rgb(230 200 150 / 0.16);
+  --gold: #d6a24f;
+  --bronze: #c07a33;
+  --advaita: #ef7a5c;
+  --dvaita: #8fb0ea;
+  --moderator: #d8b47a;
+  --veil: rgb(20 14 9 / 0.86);
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-paper-2: var(--paper-2);
+  --color-card: var(--card);
+  --color-card-strong: var(--card-strong);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-ink-faint: var(--ink-faint);
+  --color-line: var(--line);
+  --color-gold: var(--gold);
+  --color-bronze: var(--bronze);
+  --color-advaita: var(--advaita);
+  --color-dvaita: var(--dvaita);
+  --color-moderator: var(--moderator);
+  --font-display: 'Cormorant Garamond', 'EB Garamond', Georgia, serif;
+  --font-serif: 'EB Garamond', Georgia, serif;
+  --font-kannada: 'Noto Serif Kannada', 'Tunga', serif;
+  --font-deva: 'Noto Serif Devanagari', 'Mangal', serif;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-serif);
+  -webkit-font-smoothing: antialiased;
+}
+
+.kn {
+  font-family: var(--font-kannada);
+  font-size: 0.92em;
+}
+
+.deva {
+  font-family: var(--font-deva);
+}
+
+/* Thin, warm scrollbars for the transcript */
+.scroll-warm {
+  scrollbar-width: thin;
+  scrollbar-color: var(--line) transparent;
+}
+
+/* Waveform: decorative bars that move only while speech is playing */
+@keyframes wave {
+  0%,
+  100% {
+    transform: scaleY(0.35);
+  }
+  50% {
+    transform: scaleY(1);
+  }
+}
+
+.wave-bar {
+  transform-origin: center;
+  transform: scaleY(0.3);
+  transition: transform 300ms ease;
+}
+
+.wave-live .wave-bar {
+  animation: wave var(--dur, 900ms) ease-in-out infinite;
+  animation-delay: var(--delay, 0ms);
+}
+
+/* Older subtitles fade out under the header */
+.scroll-fade {
+  mask-image: linear-gradient(to bottom, transparent 0, #000 72px);
+}
+
+@keyframes pulse-dot {
+  0%,
+  100% {
+    opacity: 0.25;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.pulse-dot {
+  animation: pulse-dot 1.1s ease-in-out infinite;
+}
+
+@keyframes glow {
+  0%,
+  100% {
+    opacity: 0.55;
+  }
+  50% {
+    opacity: 0.9;
+  }
+}
+
+.halo {
+  animation: glow 2.8s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wave-live .wave-bar,
+  .pulse-dot,
+  .halo {
+    animation: none;
+  }
+}
