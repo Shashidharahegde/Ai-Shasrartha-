@@ -31,6 +31,9 @@ export const NEURAL_VOICES = [
 
 export const DEFAULT_NEURAL_VOICES = { moderator: 'bm_fable', advaita: 'bm_george', dvaita: 'am_michael' };
 
+// Indic Parler-TTS speakers in the recordings (public/audio/ep001/manifest.json).
+export const STUDIO_VOICES = { moderator: 'Dinesh', advaita: 'Dinesh', dvaita: 'Chetan' };
+
 export function splitSentences(text) {
   const parts = text.match(/[^.!?]+[.!?]+["”’]?|[^.!?]+$/g) || [text];
   return parts.map((s) => s.trim()).filter(Boolean);

@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { GLOSSARY } from '../data/glossary.js';
 import { PROVENANCE, SOURCES } from '../data/sources.js';
 import { FUNCTIONS, PHASES, SPEAKERS } from '../data/structure.js';
-import { DEFAULT_NEURAL_VOICES, NEURAL_VOICES, usableVoices } from '../speech/engine.js';
+import { NEURAL_VOICES, STUDIO_VOICES, usableVoices } from '../speech/engine.js';
 import { ExternalIcon } from './Icons.jsx';
 import { Avatar, Modal, RichText, SPEAKER_TEXT } from './common.jsx';
 
@@ -163,7 +163,7 @@ export function VoiceSettings({ player, onClose }) {
 
       {engine === 'studio' && (
         <p className="mt-3 text-[13px] text-ink-faint">
-          Recorded voices: {['moderator', 'advaita', 'dvaita'].map((r) => `${SPEAKERS[r].name} — ${NEURAL_VOICES.find((v) => v.id === DEFAULT_NEURAL_VOICES[r]).label}`).join(' · ')}.
+          Recorded voices (Indic Parler-TTS): {['advaita', 'dvaita', 'moderator'].map((r) => `${SPEAKERS[r].name} — ${STUDIO_VOICES[r]}`).join(' · ')}.
           Choose Live neural to pick different voices.
         </p>
       )}

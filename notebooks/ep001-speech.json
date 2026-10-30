@@ -1,0 +1,752 @@
+{
+ "episode": "001",
+ "items": [
+  {
+   "turn": 0,
+   "sentence": 0,
+   "speaker": "advaita",
+   "file": "00-00.mp3",
+   "text": "O learned one, kindly attend to our proposition.",
+   "tts": "O learned one, kindly attend to our proposition.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 0,
+   "sentence": 1,
+   "speaker": "advaita",
+   "file": "00-01.mp3",
+   "text": "We maintain that this empirical world, whose ultimate status is under dispute, is mithyaa.",
+   "tts": "We maintain that this empirical world, whose ultimate status is under dispute, is ಮಿಥ್ಯಾ.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 1,
+   "sentence": 0,
+   "speaker": "advaita",
+   "file": "01-00.mp3",
+   "text": "Our reason is drishyatva: its being an object of cognition.",
+   "tts": "Our reason is ದೃಶ್ಯತ್ವ: its being an object of cognition.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 2,
+   "sentence": 0,
+   "speaker": "advaita",
+   "file": "02-00.mp3",
+   "text": "Consider the silver that appears upon a piece of mother of pearl.",
+   "tts": "Consider the silver that appears upon a piece of mother of pearl.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 2,
+   "sentence": 1,
+   "speaker": "advaita",
+   "file": "02-01.mp3",
+   "text": "Although silver is perceived, upon closer examination, we discover that no silver exists there.",
+   "tts": "Although silver is perceived, upon closer examination, we discover that no silver exists there.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 2,
+   "sentence": 2,
+   "speaker": "advaita",
+   "file": "02-02.mp3",
+   "text": "Similarly, we propose that whatever is an object of cognition is mithyaa, like the silver appearing in mother of pearl.",
+   "tts": "Similarly, we propose that whatever is an object of cognition is ಮಿಥ್ಯಾ, like the silver appearing in mother of pearl.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 3,
+   "sentence": 0,
+   "speaker": "advaita",
+   "file": "03-00.mp3",
+   "text": "This world, too, is an object of cognition.",
+   "tts": "This world, too, is an object of cognition.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 4,
+   "sentence": 0,
+   "speaker": "advaita",
+   "file": "04-00.mp3",
+   "text": "Therefore, we conclude that the world is mithyaa.",
+   "tts": "Therefore, we conclude that the world is ಮಿಥ್ಯಾ.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 4,
+   "sentence": 1,
+   "speaker": "advaita",
+   "file": "04-01.mp3",
+   "text": "Just as the appearance of silver is negated by correct knowledge of the shell, the claim that the world possesses ultimate, independent reality must also be subjected to examination.",
+   "tts": "Just as the appearance of silver is negated by correct knowledge of the shell, the claim that the world possesses ultimate, independent reality must also be subjected to examination.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 5,
+   "sentence": 0,
+   "speaker": "dvaita",
+   "file": "05-00.mp3",
+   "text": "One moment, venerable scholar!",
+   "tts": "One moment, venerable scholar!",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 5,
+   "sentence": 1,
+   "speaker": "dvaita",
+   "file": "05-01.mp3",
+   "text": "Before accepting your conclusion, we must first examine the precise nature of what you seek to establish.",
+   "tts": "Before accepting your conclusion, we must first examine the precise nature of what you seek to establish.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 5,
+   "sentence": 2,
+   "speaker": "dvaita",
+   "file": "05-02.mp3",
+   "text": "What exactly do you mean by mithyaatva?",
+   "tts": "What exactly do you mean by ಮಿಥ್ಯಾತ್ವ?",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 6,
+   "sentence": 0,
+   "speaker": "dvaita",
+   "file": "06-00.mp3",
+   "text": "If you mean absolute non-existence, how do you account for the silver that is actually experienced upon the mother of pearl?",
+   "tts": "If you mean absolute non-existence, how do you account for the silver that is actually experienced upon the mother of pearl?",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 7,
+   "sentence": 0,
+   "speaker": "dvaita",
+   "file": "07-00.mp3",
+   "text": "But if you define it as sadasad-vilakshanatva, that which is distinct from both ultimate existence and absolute non-existence, then another difficulty arises.",
+   "tts": "But if you define it as ಸದಸದ್ವಿಲಕ್ಷಣತ್ವ, that which is distinct from both ultimate existence and absolute non-existence, then another difficulty arises.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 7,
+   "sentence": 1,
+   "speaker": "dvaita",
+   "file": "07-01.mp3",
+   "text": "What precisely constitutes existence?",
+   "tts": "What precisely constitutes existence?",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 7,
+   "sentence": 2,
+   "speaker": "dvaita",
+   "file": "07-02.mp3",
+   "text": "And what constitutes non-existence?",
+   "tts": "And what constitutes non-existence?",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 7,
+   "sentence": 3,
+   "speaker": "dvaita",
+   "file": "07-03.mp3",
+   "text": "How can the absence of existence, and the absence of non-existence, seemingly opposed to one another, reside in the same locus?",
+   "tts": "How can the absence of existence, and the absence of non-existence, seemingly opposed to one another, reside in the same locus?",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 8,
+   "sentence": 0,
+   "speaker": "dvaita",
+   "file": "08-00.mp3",
+   "text": "Until the definition itself is established without contradiction, how can the conclusion resting upon it be accepted?",
+   "tts": "Until the definition itself is established without contradiction, how can the conclusion resting upon it be accepted?",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 9,
+   "sentence": 0,
+   "speaker": "advaita",
+   "file": "09-00.mp3",
+   "text": "An excellent question, learned one!",
+   "tts": "An excellent question, learned one!",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 9,
+   "sentence": 1,
+   "speaker": "advaita",
+   "file": "09-01.mp3",
+   "text": "We do not maintain that the world is utterly non-existent, like the horn of a hare.",
+   "tts": "We do not maintain that the world is utterly non-existent, like the horn of a hare.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 10,
+   "sentence": 0,
+   "speaker": "advaita",
+   "file": "10-00.mp3",
+   "text": "By existence, we mean trikaala-abaadhyatva: that which remains unsublated throughout the three periods of time.",
+   "tts": "By existence, we mean ತ್ರಿಕಾಲಾಬಾಧ್ಯತ್ವ: that which remains unsublated throughout the three periods of time.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 10,
+   "sentence": 1,
+   "speaker": "advaita",
+   "file": "10-01.mp3",
+   "text": "Past, present, and future.",
+   "tts": "Past, present, and future.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 10,
+   "sentence": 2,
+   "speaker": "advaita",
+   "file": "10-02.mp3",
+   "text": "By absolute non-existence, we mean that which is incapable of ever appearing as existent, in any locus.",
+   "tts": "By absolute non-existence, we mean that which is incapable of ever appearing as existent, in any locus.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 11,
+   "sentence": 0,
+   "speaker": "advaita",
+   "file": "11-00.mp3",
+   "text": "Consider again the silver perceived upon mother of pearl.",
+   "tts": "Consider again the silver perceived upon mother of pearl.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 11,
+   "sentence": 1,
+   "speaker": "advaita",
+   "file": "11-01.mp3",
+   "text": "It appears to consciousness.",
+   "tts": "It appears to consciousness.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 11,
+   "sentence": 2,
+   "speaker": "advaita",
+   "file": "11-02.mp3",
+   "text": "Yet, when correct knowledge arises, that appearance is sublated.",
+   "tts": "Yet, when correct knowledge arises, that appearance is sublated.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 11,
+   "sentence": 3,
+   "speaker": "advaita",
+   "file": "11-03.mp3",
+   "text": "Thus, it is neither ultimately real, like Brahman, nor utterly incapable of appearance, like a hare’s horn.",
+   "tts": "Thus, it is neither ultimately real, like ಬ್ರಹ್ಮನ್, nor utterly incapable of appearance, like a hare’s horn.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 11,
+   "sentence": 4,
+   "speaker": "advaita",
+   "file": "11-04.mp3",
+   "text": "This is what we mean by sadasad-vilakshanatva.",
+   "tts": "This is what we mean by ಸದಸದ್ವಿಲಕ್ಷಣತ್ವ.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 12,
+   "sentence": 0,
+   "speaker": "advaita",
+   "file": "12-00.mp3",
+   "text": "And now, let us turn to the testimony of the Chhaandogya Upanishad.",
+   "tts": "And now, let us turn to the testimony of the ಛಾಂದೋಗ್ಯ ಉಪನಿಷತ್.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 12,
+   "sentence": 1,
+   "speaker": "advaita",
+   "file": "12-01.mp3",
+   "text": "Sad eva somya, idam agra aaseet, ekam eva adviteeyam.",
+   "tts": "ಸದೇವ ಸೋಮ್ಯೇದಮಗ್ರ ಆಸೀದೇಕಮೇವಾದ್ವಿತೀಯಮ್.",
+   "sanskritOnly": true
+  },
+  {
+   "turn": 12,
+   "sentence": 2,
+   "speaker": "advaita",
+   "file": "12-02.mp3",
+   "text": "In the beginning, dear one, this was Being alone, one without a second.",
+   "tts": "In the beginning, dear one, this was Being alone, one without a second.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 13,
+   "sentence": 0,
+   "speaker": "advaita",
+   "file": "13-00.mp3",
+   "text": "And elsewhere, the same scripture declares.",
+   "tts": "And elsewhere, the same scripture declares.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 13,
+   "sentence": 1,
+   "speaker": "advaita",
+   "file": "13-01.mp3",
+   "text": "Vaachaarambhanam vikaaro naamadheyam, mrittiketyeva satyam.",
+   "tts": "ವಾಚಾರಮ್ಭಣಂ ವಿಕಾರೋ ನಾಮಧೇಯಂ ಮೃತ್ತಿಕೇತ್ಯೇವ ಸತ್ಯಮ್.",
+   "sanskritOnly": true
+  },
+  {
+   "turn": 13,
+   "sentence": 2,
+   "speaker": "advaita",
+   "file": "13-02.mp3",
+   "text": "A modification is merely a name arising through speech; clay alone is real.",
+   "tts": "A modification is merely a name arising through speech; clay alone is real.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 14,
+   "sentence": 0,
+   "speaker": "advaita",
+   "file": "14-00.mp3",
+   "text": "Reflect upon this carefully, venerable scholar.",
+   "tts": "Reflect upon this carefully, venerable scholar.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 14,
+   "sentence": 1,
+   "speaker": "advaita",
+   "file": "14-01.mp3",
+   "text": "A pot possesses a distinct name and form.",
+   "tts": "A pot possesses a distinct name and form.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 14,
+   "sentence": 2,
+   "speaker": "advaita",
+   "file": "14-02.mp3",
+   "text": "Yet, without clay, where is the pot?",
+   "tts": "Yet, without clay, where is the pot?",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 14,
+   "sentence": 3,
+   "speaker": "advaita",
+   "file": "14-03.mp3",
+   "text": "Its apparent individuality depends entirely upon its underlying material reality.",
+   "tts": "Its apparent individuality depends entirely upon its underlying material reality.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 15,
+   "sentence": 0,
+   "speaker": "advaita",
+   "file": "15-00.mp3",
+   "text": "Likewise, we maintain that this universe of names and forms possesses no independent ultimate existence apart from Brahman.",
+   "tts": "Likewise, we maintain that this universe of names and forms possesses no independent ultimate existence apart from ಬ್ರಹ್ಮನ್.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 16,
+   "sentence": 0,
+   "speaker": "dvaita",
+   "file": "16-00.mp3",
+   "text": "And it is precisely here, respected scholar, that our inquiry must deepen!",
+   "tts": "And it is precisely here, respected scholar, that our inquiry must deepen!",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 16,
+   "sentence": 1,
+   "speaker": "dvaita",
+   "file": "16-01.mp3",
+   "text": "We readily acknowledge that the pot depends upon clay.",
+   "tts": "We readily acknowledge that the pot depends upon clay.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 16,
+   "sentence": 2,
+   "speaker": "dvaita",
+   "file": "16-02.mp3",
+   "text": "But from where does it follow, that dependence necessarily implies mithyaatva?",
+   "tts": "But from where does it follow, that dependence necessarily implies ಮಿಥ್ಯಾತ್ವ?",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 17,
+   "sentence": 0,
+   "speaker": "dvaita",
+   "file": "17-00.mp3",
+   "text": "A pot can hold water.",
+   "tts": "A pot can hold water.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 17,
+   "sentence": 1,
+   "speaker": "dvaita",
+   "file": "17-01.mp3",
+   "text": "An unshaped lump of clay cannot perform that function in the same manner.",
+   "tts": "An unshaped lump of clay cannot perform that function in the same manner.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 17,
+   "sentence": 2,
+   "speaker": "dvaita",
+   "file": "17-02.mp3",
+   "text": "The distinctive properties of the pot are established through direct perception.",
+   "tts": "The distinctive properties of the pot are established through direct perception.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 17,
+   "sentence": 3,
+   "speaker": "dvaita",
+   "file": "17-03.mp3",
+   "text": "Therefore, the dependence of an object upon its cause, does not, by itself, establish that the object is unreal.",
+   "tts": "Therefore, the dependence of an object upon its cause, does not, by itself, establish that the object is unreal.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 18,
+   "sentence": 0,
+   "speaker": "dvaita",
+   "file": "18-00.mp3",
+   "text": "Consider also your example of the silver appearing upon mother of pearl.",
+   "tts": "Consider also your example of the silver appearing upon mother of pearl.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 18,
+   "sentence": 1,
+   "speaker": "dvaita",
+   "file": "18-01.mp3",
+   "text": "In that case, a correcting cognition arises: This is not silver.",
+   "tts": "In that case, a correcting cognition arises: This is not silver.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 18,
+   "sentence": 2,
+   "speaker": "dvaita",
+   "file": "18-02.mp3",
+   "text": "Thus, the mistaken appearance is demonstrably sublated.",
+   "tts": "Thus, the mistaken appearance is demonstrably sublated.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 18,
+   "sentence": 3,
+   "speaker": "dvaita",
+   "file": "18-03.mp3",
+   "text": "But in the case of this waking world, what corresponding valid means of knowledge establishes its sublation?",
+   "tts": "But in the case of this waking world, what corresponding valid means of knowledge establishes its sublation?",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 19,
+   "sentence": 0,
+   "speaker": "dvaita",
+   "file": "19-00.mp3",
+   "text": "Furthermore, consider the declaration of the Katha Upanishad.",
+   "tts": "Furthermore, consider the declaration of the ಕಠ ಉಪನಿಷತ್.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 19,
+   "sentence": 1,
+   "speaker": "dvaita",
+   "file": "19-01.mp3",
+   "text": "Eko bahoonaam, yo vidadhaati kaamaan.",
+   "tts": "ಏಕೋ ಬಹೂನಾಂ ಯೋ ವಿದಧಾತಿ ಕಾಮಾನ್.",
+   "sanskritOnly": true
+  },
+  {
+   "turn": 19,
+   "sentence": 2,
+   "speaker": "dvaita",
+   "file": "19-02.mp3",
+   "text": "The One who fulfills the desires of the many.",
+   "tts": "The One who fulfills the desires of the many.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 19,
+   "sentence": 3,
+   "speaker": "dvaita",
+   "file": "19-03.mp3",
+   "text": "Here, the relationship between the One and the many is expressed.",
+   "tts": "Here, the relationship between the One and the many is expressed.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 19,
+   "sentence": 4,
+   "speaker": "dvaita",
+   "file": "19-04.mp3",
+   "text": "The intended meaning of this distinction must also be examined.",
+   "tts": "The intended meaning of this distinction must also be examined.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 20,
+   "sentence": 0,
+   "speaker": "dvaita",
+   "file": "20-00.mp3",
+   "text": "Dependence upon another does not, by itself, establish the non-reality of that which depends.",
+   "tts": "Dependence upon another does not, by itself, establish the non-reality of that which depends.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 21,
+   "sentence": 0,
+   "speaker": "advaita",
+   "file": "21-00.mp3",
+   "text": "Your question is reasonable.",
+   "tts": "Your question is reasonable.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 21,
+   "sentence": 1,
+   "speaker": "advaita",
+   "file": "21-01.mp3",
+   "text": "We do not deny that a pot possesses the capacity to hold water.",
+   "tts": "We do not deny that a pot possesses the capacity to hold water.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 21,
+   "sentence": 2,
+   "speaker": "advaita",
+   "file": "21-02.mp3",
+   "text": "Indeed, we fully acknowledge vyaavahaarika sattaa: reality at the level of ordinary experience and practical activity.",
+   "tts": "Indeed, we fully acknowledge ವ್ಯಾವಹಾರಿಕ ಸತ್ತಾ: reality at the level of ordinary experience and practical activity.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 22,
+   "sentence": 0,
+   "speaker": "advaita",
+   "file": "22-00.mp3",
+   "text": "Yet, the successful functioning of an object within experience does not, by itself, establish its paaramaarthika sattaa: ultimate reality.",
+   "tts": "Yet, the successful functioning of an object within experience does not, by itself, establish its ಪಾರಮಾರ್ಥಿಕ ಸತ್ತಾ: ultimate reality.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 23,
+   "sentence": 0,
+   "speaker": "advaita",
+   "file": "23-00.mp3",
+   "text": "Consider the experience of a dream.",
+   "tts": "Consider the experience of a dream.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 23,
+   "sentence": 1,
+   "speaker": "advaita",
+   "file": "23-01.mp3",
+   "text": "Within the dream, pleasure, suffering, movement, and countless other experiences appear meaningful.",
+   "tts": "Within the dream, pleasure, suffering, movement, and countless other experiences appear meaningful.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 23,
+   "sentence": 2,
+   "speaker": "advaita",
+   "file": "23-02.mp3",
+   "text": "Yet, upon awakening, the dream world is sublated.",
+   "tts": "Yet, upon awakening, the dream world is sublated.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 24,
+   "sentence": 0,
+   "speaker": "advaita",
+   "file": "24-00.mp3",
+   "text": "Through this example, we demonstrate only that practical experience does not automatically establish ultimate reality.",
+   "tts": "Through this example, we demonstrate only that practical experience does not automatically establish ultimate reality.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 24,
+   "sentence": 1,
+   "speaker": "advaita",
+   "file": "24-01.mp3",
+   "text": "We do not claim that the waking world and the dream world are identical in every respect.",
+   "tts": "We do not claim that the waking world and the dream world are identical in every respect.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 24,
+   "sentence": 2,
+   "speaker": "advaita",
+   "file": "24-02.mp3",
+   "text": "According to our position, the ultimate sublation of the empirical world is accomplished through knowledge of Brahman.",
+   "tts": "According to our position, the ultimate sublation of the empirical world is accomplished through knowledge of ಬ್ರಹ್ಮನ್.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 25,
+   "sentence": 0,
+   "speaker": "dvaita",
+   "file": "25-00.mp3",
+   "text": "Then let us return to the very foundation of your inference.",
+   "tts": "Then let us return to the very foundation of your inference.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 25,
+   "sentence": 1,
+   "speaker": "dvaita",
+   "file": "25-01.mp3",
+   "text": "You have declared: Because it possesses drishyatva.",
+   "tts": "You have declared: Because it possesses ದೃಶ್ಯತ್ವ.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 25,
+   "sentence": 2,
+   "speaker": "dvaita",
+   "file": "25-02.mp3",
+   "text": "But what precisely is the definition of drishyatva?",
+   "tts": "But what precisely is the definition of ದೃಶ್ಯತ್ವ?",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 26,
+   "sentence": 0,
+   "speaker": "dvaita",
+   "file": "26-00.mp3",
+   "text": "Do you mean vritti-vyaapyatva: being encompassed by a cognition’s mental modification?",
+   "tts": "Do you mean ವೃತ್ತಿವ್ಯಾಪ್ಯತ್ವ: being encompassed by a cognition’s mental modification?",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 26,
+   "sentence": 1,
+   "speaker": "dvaita",
+   "file": "26-01.mp3",
+   "text": "Or phala-vyaapyatva: being encompassed by the resulting manifestation of knowledge?",
+   "tts": "Or ಫಲವ್ಯಾಪ್ಯತ್ವ: being encompassed by the resulting manifestation of knowledge?",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 26,
+   "sentence": 2,
+   "speaker": "dvaita",
+   "file": "26-02.mp3",
+   "text": "Or perhaps asva-prakaashatva: not being self-luminous?",
+   "tts": "Or perhaps ಅಸ್ವಪ್ರಕಾಶತ್ವ: not being self-luminous?",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 27,
+   "sentence": 0,
+   "speaker": "dvaita",
+   "file": "27-00.mp3",
+   "text": "In the example of the silver appearing upon mother of pearl, its sublation is established.",
+   "tts": "In the example of the silver appearing upon mother of pearl, its sublation is established.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 27,
+   "sentence": 1,
+   "speaker": "dvaita",
+   "file": "27-01.mp3",
+   "text": "But by what valid means of knowledge have you established an invariable relationship between drishyatva and mithyaatva, throughout the entire empirical world?",
+   "tts": "But by what valid means of knowledge have you established an invariable relationship between ದೃಶ್ಯತ್ವ and ಮಿಥ್ಯಾತ್ವ, throughout the entire empirical world?",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 27,
+   "sentence": 2,
+   "speaker": "dvaita",
+   "file": "27-02.mp3",
+   "text": "One example alone does not establish vyaapti: an invariable relation between the reason, and what is to be proved.",
+   "tts": "One example alone does not establish ವ್ಯಾಪ್ತಿ: an invariable relation between the reason, and what is to be proved.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 28,
+   "sentence": 0,
+   "speaker": "dvaita",
+   "file": "28-00.mp3",
+   "text": "Therefore, the fundamental question remains.",
+   "tts": "Therefore, the fundamental question remains.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 28,
+   "sentence": 1,
+   "speaker": "dvaita",
+   "file": "28-01.mp3",
+   "text": "How can drishyatva be established as an avyabhichaari linga, an unfailing logical indicator, of mithyaatva?",
+   "tts": "How can ದೃಶ್ಯತ್ವ be established as an ಅವ್ಯಭಿಚಾರಿ ಲಿಂಗ, an unfailing logical indicator, of ಮಿಥ್ಯಾತ್ವ?",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 29,
+   "sentence": 0,
+   "speaker": "moderator",
+   "file": "29-00.mp3",
+   "text": "Thus concludes the first dialogue.",
+   "tts": "Thus concludes the first dialogue.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 29,
+   "sentence": 1,
+   "speaker": "moderator",
+   "file": "29-01.mp3",
+   "text": "The definition of mithyaatva has been examined.",
+   "tts": "The definition of ಮಿಥ್ಯಾತ್ವ has been examined.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 29,
+   "sentence": 2,
+   "speaker": "moderator",
+   "file": "29-02.mp3",
+   "text": "The examples have been presented, and questioned.",
+   "tts": "The examples have been presented, and questioned.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 29,
+   "sentence": 3,
+   "speaker": "moderator",
+   "file": "29-03.mp3",
+   "text": "Yet the question of vyaapti remains unresolved.",
+   "tts": "Yet the question of ವ್ಯಾಪ್ತಿ remains unresolved.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 30,
+   "sentence": 0,
+   "speaker": "moderator",
+   "file": "30-00.mp3",
+   "text": "In our next dialogue, we shall examine whether drishyatva truly constitutes a valid reason for establishing mithyaatva.",
+   "tts": "In our next dialogue, we shall examine whether ದೃಶ್ಯತ್ವ truly constitutes a valid reason for establishing ಮಿಥ್ಯಾತ್ವ.",
+   "sanskritOnly": false
+  },
+  {
+   "turn": 30,
+   "sentence": 1,
+   "speaker": "moderator",
+   "file": "30-01.mp3",
+   "text": "Until then, let the inquiry into truth continue.",
+   "tts": "Until then, let the inquiry into truth continue.",
+   "sanskritOnly": false
+  }
+ ]
+}
